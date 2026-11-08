@@ -117,7 +117,7 @@ Merge Pets — уютная и простая игра в жанре «слия�
 
 Last updated: November 8, 2026
 
-Merge Pets ("the app") is a game developed by LightGames.
+Merge Pets ("the app") is a game developed by Software Kasper Team.
 
 **Information we collect.** The app does not collect, store on our servers, transmit or share any personal information. The app does not require an account and does not use the internet.
 
@@ -141,7 +141,7 @@ Merge Pets ("the app") is a game developed by LightGames.
 
 Дата обновления: 8 ноября 2026 г.
 
-Merge Pets («приложение») — игра, разработанная LightGames.
+Merge Pets («приложение») — игра, разработанная Software Kasper Team.
 
 **Какие данные мы собираем.** Приложение не собирает, не передаёт на серверы и не раскрывает никакие персональные данные. Регистрация не нужна, интернет приложением не используется.
 
