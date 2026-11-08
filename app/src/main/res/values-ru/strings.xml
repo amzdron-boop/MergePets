@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Слияние питомцев</string>
+
+    <string name="get_pet">Взять питомца</string>
+    <string name="upgrades">Улучшения</string>
+    <string name="pets_book">Питомцы</string>
+    <string name="daily">Награда</string>
+    <string name="settings">Настройки</string>
+    <string name="close">Закрыть</string>
+
+    <string name="income_hud">+%1$s/с</string>
+    <string name="hint">Перетащи двух одинаковых питомцев друг на друга, чтобы слить их!</string>
+    <string name="board_full">Поле заполнено — слей питомцев!</string>
+    <string name="not_enough">Не хватает монет</string>
+
+    <string name="welcome_back">С возвращением!</string>
+    <string name="offline_text">Пока тебя не было, питомцы заработали %1$s монет.</string>
+    <string name="collect">Забрать</string>
+
+    <string name="daily_title">Ежедневная награда</string>
+    <string name="daily_day">День %1$d</string>
+    <string name="daily_claim">Забрать +%1$s</string>
+    <string name="daily_claimed">Приходи завтра за ещё большей наградой!</string>
+    <string name="daily_got">Ежедневная награда: +%1$s</string>
+
+    <string name="upg_income">Сила питомцев</string>
+    <string name="upg_income_desc">+25%% дохода от всех питомцев</string>
+    <string name="upg_spawn">Лучшие яйца</string>
+    <string name="upg_spawn_desc">Новые питомцы появляются уровнем выше</string>
+    <string name="upg_level">Уровень %1$d</string>
+    <string name="upg_max">МАКС</string>
+
+    <string name="new_pet">Новый питомец: %1$s!  +%2$s</string>
+    <string name="gift_got">Подарок! +%1$s</string>
+
+    <string name="found_count">Открыто: %1$d / %2$d</string>
+    <string name="unknown_pet">\?\?\?</string>
+    <string name="per_sec">%1$s / сек</string>
+    <string name="lv">Ур. %1$d</string>
+
+    <string name="sound">Звук</string>
+    <string name="vibration">Вибрация</string>
+    <string name="language">Язык</string>
+    <string name="lang_system">Авто</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ru">Русский</string>
+
+    <string name="pet_1">Яйцо</string>
+    <string name="pet_2">Птенчик</string>
+    <string name="pet_3">Цыплёнок</string>
+    <string name="pet_4">Хомяк</string>
+    <string name="pet_5">Зайчик</string>
+    <string name="pet_6">Котёнок</string>
+    <string name="pet_7">Щенок</string>
+    <string name="pet_8">Лисёнок</string>
+    <string name="pet_9">Панда</string>
+    <string name="pet_10">Коала</string>
+    <string name="pet_11">Лев</string>
+    <string name="pet_12">Тигр</string>
+    <string name="pet_13">Дракон</string>
+    <string name="pet_14">Единорог</string>
+</resources>
