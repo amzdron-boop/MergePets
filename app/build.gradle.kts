@@ -16,7 +16,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.lightgames.mergepets"
+        applicationId = "com.amzdron.mergepets"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
